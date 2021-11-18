@@ -4,7 +4,6 @@
      create: function(){
          game.stage.backgroundColor = "#dddddd";
          //game.state.start("state1")
-         console.log("state1");
          
          addChangeStateEventListeners();
 
